@@ -1,6 +1,6 @@
 <template>
   <div>
-    <van-nav-bar title="登 &nbsp 录" left-arrow @click-left="back" />
+    <van-nav-bar title="登``````录" left-arrow @click-left="back" />
     <div class="box">
       <van-cell-group>
         <van-field v-model="username" clearable label="用户名" placeholder="请输入用户名" />
